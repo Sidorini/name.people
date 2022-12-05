@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Знаменитости</title>
+	<title>Russian people</title>
 </head>
 <body>
 <div id="main">
@@ -18,6 +18,7 @@
 <h1>Бортич</h1>
 <img src=https://user-images.githubusercontent.com/119897956/205754302-04c3ca3d-a28a-4739-9f5a-e9d3901ac9be.jpg width=150 height=150>
 <br>
+
 
 <h1>Билан</h1>
 <img src=https://user-images.githubusercontent.com/119897956/205754468-f8f21f32-4279-4259-960a-f7943745658f.jpg width=150 height=150>
