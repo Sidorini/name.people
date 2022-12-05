@@ -23,6 +23,8 @@
 <img src=https://user-images.githubusercontent.com/119897956/205754468-f8f21f32-4279-4259-960a-f7943745658f.jpg width=150 height=150>
 <br>
 <h1>Воля</h1>
+<img src=https://user-images.githubusercontent.com/119897956/205755870-cea036a7-ec55-4bc9-8497-881defa6b445.jpg width=150 height=150>
+<br>
 
 <h1>Собчак</h1>
 <img src=https://user-images.githubusercontent.com/119897956/205754586-ed4137c6-85e3-47b9-8ca7-53d4fa593e82.jpg width=150 height=150>
