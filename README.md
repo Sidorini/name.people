@@ -12,7 +12,7 @@
 <div id="main">
 
 <h1>Асмус</h1>
-<img src=![asmus](https://user-images.githubusercontent.com/119897956/205757063-ce9143ac-5628-4e61-93ac-77dc37faeadb.jpg) width=150 height=150>
+<img src=https://user-images.githubusercontent.com/119897956/205757063-ce9143ac-5628-4e61-93ac-77dc37faeadb.jpg width=150 height=150>
 <br>
 
 <h1>Бортич</h1>
