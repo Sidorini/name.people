@@ -1,5 +1,4 @@
 # name.people
-![asmus](https://user-images.githubusercontent.com/119897956/205760795-c1d7e823-5fea-45e9-8643-46d77dcf0e11.jpg)
 
 
 <!DOCTYPE html>
