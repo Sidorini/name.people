@@ -12,6 +12,7 @@
 <div id="main">
 
 <h1>Асмус</h1>
+![asmus](https://user-images.githubusercontent.com/119897956/205757063-ce9143ac-5628-4e61-93ac-77dc37faeadb.jpg)
 <img src=https://user-images.githubusercontent.com/119897956/205754054-16509be0-1015-402c-9c66-1d9e2e3090f5.jpg width=150 height=150>
 <br>
 
